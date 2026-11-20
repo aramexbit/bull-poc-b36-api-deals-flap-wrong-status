@@ -1,0 +1,17 @@
+On-chain truth — HI escrow 0xd961cA37e339E14e0D3478383a252E218fe7aa4a
+RPC https://rpc.mainnet.chain.robinhood.com, block 119141815, 20 Nov 2026 ~22:0x WIB
+cast call deals(uint256) — status: 0=none 1=open 2=settled 3=cancelled
+
+deal 1: status 1 OPEN, buyer 0xB68aC497E3bcdD73Eee7265156181c79D19755fF, seller 0xbA4411E564091dCb364906Cc8eC9FC1c9f4d2f5B,
+  sellToken 0x30768B5482e5dd8a2487cE0BE61E01fA03Af37ff (BULL), sellAmount 1e30, payToken 0x0, payAmount 3e15,
+  deadline 1794963772, buyerFunded false, sellerFunded false, feeBps 250
+deal 2: status 1 OPEN, buyer 0xCd2C3dd46104065bd50d4F693aF81A00E842efaa, seller 0xBFdA56aA3AF98e7F30aBB19A893259084aEd31c7,
+  sellToken 0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168 (USDG), sellAmount 1e24, payToken 0x0, payAmount 1e33,
+  deadline 1794967598, buyerFunded false, sellerFunded false, feeBps 150
+deal 3: status 1 OPEN, buyer 0x65c83063dce373c4E3a20C9Ddc97052a6Fe8F607, seller 0x8aCDC3A45C39e04f6655fd850B86a2C65815b22b,
+  sellToken 0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168 (USDG), sellAmount 1e8, payToken 0x0, payAmount 1e16,
+  deadline 1795033942, buyerFunded false, sellerFunded false, feeBps 250
+deal 4: status 3 CANCELLED, buyer 0xB68aC497E3bcdD73Eee7265156181c79D19755fF, seller 0x4AacBEF3924De2430365628c38c34Cd86de9fE85
+deal 5: status 2 SETTLED, buyer 0x44b418d57bd5EB72A43E10DB13F8d5e1f0Ef188A, seller 0xf8752dAa54b63f8328aabAd2c0C94E76f8fDcfe9,
+  buyerFunded true, sellerFunded true
+deal 6: status 0 NONE (empty)

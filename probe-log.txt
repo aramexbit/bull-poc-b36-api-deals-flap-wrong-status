@@ -1,0 +1,45 @@
+=== DEALS /1 /2 /3 x6 berurutan ===
+2026-11-20T14:59:02Z 21:59:02 WIB | probe-deals1_1 | HTTP 200 | sha256=85160dd385c12fe6d165574aa2c63258524762e80636f5cc47b9ac365c4486a0 | bytes=262 | https://www.bull.family/api/v1/deals/1
+2026-11-20T14:59:03Z 21:59:03 WIB | probe-deals2_1 | HTTP 200 | sha256=34ac0d8dbf8797b9582a08588741220c27b0051fdbf3c5f2185bb6d7c67f4deb | bytes=252 | https://www.bull.family/api/v1/deals/2
+2026-11-20T14:59:06Z 21:59:06 WIB | probe-deals3_1 | HTTP 200 | sha256=aae1fabf3d8655482ad4964ea17bde8b5b93297d5f73236e599a8397f2cc15ad | bytes=260 | https://www.bull.family/api/v1/deals/3
+2026-11-20T14:59:07Z 21:59:07 WIB | probe-deals1_2 | HTTP 200 | sha256=85160dd385c12fe6d165574aa2c63258524762e80636f5cc47b9ac365c4486a0 | bytes=262 | https://www.bull.family/api/v1/deals/1
+2026-11-20T14:59:08Z 21:59:08 WIB | probe-deals2_2 | HTTP 200 | sha256=f8d3abaecc4379af6a60a6500651ef7f0b0d4ba9e46bf027d36b3b71320b1f1c | bytes=266 | https://www.bull.family/api/v1/deals/2
+2026-11-20T14:59:09Z 21:59:09 WIB | probe-deals3_2 | HTTP 200 | sha256=aae1fabf3d8655482ad4964ea17bde8b5b93297d5f73236e599a8397f2cc15ad | bytes=260 | https://www.bull.family/api/v1/deals/3
+2026-11-20T14:59:11Z 21:59:11 WIB | probe-deals1_3 | HTTP 200 | sha256=89ae9938f4d5599abd96b5f1b66fcc53e2d1ba001387ab931904aa40fbb2f4fa | bytes=252 | https://www.bull.family/api/v1/deals/1
+2026-11-20T14:59:12Z 21:59:12 WIB | probe-deals2_3 | HTTP 200 | sha256=a9e91af669509fafb32330f571fdf4bfb987ee1bb78dc40587d230c80197ad7f | bytes=260 | https://www.bull.family/api/v1/deals/2
+2026-11-20T14:59:13Z 21:59:13 WIB | probe-deals3_3 | HTTP 200 | sha256=5a29d9b6d248b0e32519bda347ef8b676f0897e20517d7e888a56450d6cabc2d | bytes=252 | https://www.bull.family/api/v1/deals/3
+2026-11-20T14:59:14Z 21:59:14 WIB | probe-deals1_4 | HTTP 200 | sha256=89ae9938f4d5599abd96b5f1b66fcc53e2d1ba001387ab931904aa40fbb2f4fa | bytes=252 | https://www.bull.family/api/v1/deals/1
+2026-11-20T14:59:15Z 21:59:15 WIB | probe-deals2_4 | HTTP 200 | sha256=a9e91af669509fafb32330f571fdf4bfb987ee1bb78dc40587d230c80197ad7f | bytes=260 | https://www.bull.family/api/v1/deals/2
+2026-11-20T14:59:18Z 21:59:18 WIB | probe-deals3_4 | HTTP 200 | sha256=aae1fabf3d8655482ad4964ea17bde8b5b93297d5f73236e599a8397f2cc15ad | bytes=260 | https://www.bull.family/api/v1/deals/3
+2026-11-20T14:59:19Z 21:59:19 WIB | probe-deals1_5 | HTTP 200 | sha256=6f503bb88da681473b20190f107ac624258e3abb2be6cfacca36a8cc955a1f4b | bytes=260 | https://www.bull.family/api/v1/deals/1
+2026-11-20T14:59:21Z 21:59:21 WIB | probe-deals2_5 | HTTP 200 | sha256=a9e91af669509fafb32330f571fdf4bfb987ee1bb78dc40587d230c80197ad7f | bytes=260 | https://www.bull.family/api/v1/deals/2
+2026-11-20T14:59:25Z 21:59:25 WIB | probe-deals3_5 | HTTP 200 | sha256=aae1fabf3d8655482ad4964ea17bde8b5b93297d5f73236e599a8397f2cc15ad | bytes=260 | https://www.bull.family/api/v1/deals/3
+2026-11-20T14:59:28Z 21:59:28 WIB | probe-deals1_6 | HTTP 200 | sha256=85160dd385c12fe6d165574aa2c63258524762e80636f5cc47b9ac365c4486a0 | bytes=262 | https://www.bull.family/api/v1/deals/1
+2026-11-20T14:59:32Z 21:59:32 WIB | probe-deals2_6 | HTTP 200 | sha256=a9e91af669509fafb32330f571fdf4bfb987ee1bb78dc40587d230c80197ad7f | bytes=260 | https://www.bull.family/api/v1/deals/2
+2026-11-20T14:59:35Z 21:59:35 WIB | probe-deals3_6 | HTTP 200 | sha256=aae1fabf3d8655482ad4964ea17bde8b5b93297d5f73236e599a8397f2cc15ad | bytes=260 | https://www.bull.family/api/v1/deals/3
+=== RFQ /api/v1/rfqs x6 ===
+2026-11-20T14:59:37Z 21:59:37 WIB | probe-rfqs_1 | HTTP 200 | sha256=fc69ecbddb075a3fbb29078d199ca99f98d8fe3e6887dff4c80b159f7daec853 | bytes=649 | https://www.bull.family/api/v1/rfqs
+2026-11-20T14:59:39Z 21:59:39 WIB | probe-rfqs_2 | HTTP 200 | sha256=fc69ecbddb075a3fbb29078d199ca99f98d8fe3e6887dff4c80b159f7daec853 | bytes=649 | https://www.bull.family/api/v1/rfqs
+2026-11-20T14:59:40Z 21:59:40 WIB | probe-rfqs_3 | HTTP 200 | sha256=fc69ecbddb075a3fbb29078d199ca99f98d8fe3e6887dff4c80b159f7daec853 | bytes=649 | https://www.bull.family/api/v1/rfqs
+2026-11-20T14:59:41Z 21:59:41 WIB | probe-rfqs_4 | HTTP 200 | sha256=fc69ecbddb075a3fbb29078d199ca99f98d8fe3e6887dff4c80b159f7daec853 | bytes=649 | https://www.bull.family/api/v1/rfqs
+2026-11-20T14:59:43Z 21:59:43 WIB | probe-rfqs_5 | HTTP 200 | sha256=fc69ecbddb075a3fbb29078d199ca99f98d8fe3e6887dff4c80b159f7daec853 | bytes=649 | https://www.bull.family/api/v1/rfqs
+2026-11-20T14:59:44Z 21:59:44 WIB | probe-rfqs_6 | HTTP 200 | sha256=fc69ecbddb075a3fbb29078d199ca99f98d8fe3e6887dff4c80b159f7daec853 | bytes=649 | https://www.bull.family/api/v1/rfqs
+=== SETTLE /1 tanpa ?escrow= x6 ===
+2026-11-20T14:59:45Z 21:59:45 WIB | probe-settle1_1 | HTTP 200 | sha256=437c7466049d6e36e17065d897a30b9b3d27cdfbb4b597d5ca6d01f6db2a7da7 | bytes=720 | https://www.bull.family/api/v1/settle/1
+2026-11-20T14:59:47Z 21:59:47 WIB | probe-settle1_2 | HTTP 200 | sha256=437c7466049d6e36e17065d897a30b9b3d27cdfbb4b597d5ca6d01f6db2a7da7 | bytes=720 | https://www.bull.family/api/v1/settle/1
+2026-11-20T14:59:48Z 21:59:48 WIB | probe-settle1_3 | HTTP 200 | sha256=437c7466049d6e36e17065d897a30b9b3d27cdfbb4b597d5ca6d01f6db2a7da7 | bytes=720 | https://www.bull.family/api/v1/settle/1
+2026-11-20T14:59:49Z 21:59:49 WIB | probe-settle1_4 | HTTP 200 | sha256=437c7466049d6e36e17065d897a30b9b3d27cdfbb4b597d5ca6d01f6db2a7da7 | bytes=720 | https://www.bull.family/api/v1/settle/1
+2026-11-20T14:59:50Z 21:59:50 WIB | probe-settle1_5 | HTTP 200 | sha256=437c7466049d6e36e17065d897a30b9b3d27cdfbb4b597d5ca6d01f6db2a7da7 | bytes=720 | https://www.bull.family/api/v1/settle/1
+2026-11-20T14:59:51Z 21:59:51 WIB | probe-settle1_6 | HTTP 200 | sha256=437c7466049d6e36e17065d897a30b9b3d27cdfbb4b597d5ca6d01f6db2a7da7 | bytes=720 | https://www.bull.family/api/v1/settle/1
+=== RECEIPTS /1 tanpa ?escrow= x6 ===
+2026-11-20T14:59:53Z 21:59:53 WIB | probe-receipts1_1 | HTTP 409 | sha256=c91c86f7bf8610d0e7c8f3ed00ff0e76f269d0e24a187311e9a2fdd3fc639d68 | bytes=97 | https://www.bull.family/api/v1/receipts/1
+2026-11-20T14:59:54Z 21:59:54 WIB | probe-receipts1_2 | HTTP 409 | sha256=c91c86f7bf8610d0e7c8f3ed00ff0e76f269d0e24a187311e9a2fdd3fc639d68 | bytes=97 | https://www.bull.family/api/v1/receipts/1
+2026-11-20T14:59:55Z 21:59:55 WIB | probe-receipts1_3 | HTTP 409 | sha256=c91c86f7bf8610d0e7c8f3ed00ff0e76f269d0e24a187311e9a2fdd3fc639d68 | bytes=97 | https://www.bull.family/api/v1/receipts/1
+2026-11-20T14:59:56Z 21:59:56 WIB | probe-receipts1_4 | HTTP 409 | sha256=7c23eb15e59eefe9484844ca0153c493dc6264e32a00f23602412d42fdfbb3a1 | bytes=97 | https://www.bull.family/api/v1/receipts/1
+2026-11-20T14:59:57Z 21:59:57 WIB | probe-receipts1_5 | HTTP 409 | sha256=c91c86f7bf8610d0e7c8f3ed00ff0e76f269d0e24a187311e9a2fdd3fc639d68 | bytes=97 | https://www.bull.family/api/v1/receipts/1
+2026-11-20T14:59:58Z 21:59:58 WIB | probe-receipts1_6 | HTTP 409 | sha256=c91c86f7bf8610d0e7c8f3ed00ff0e76f269d0e24a187311e9a2fdd3fc639d68 | bytes=97 | https://www.bull.family/api/v1/receipts/1
+=== VESTING /1 x3 ===
+2026-11-20T14:59:59Z 21:59:59 WIB | probe-vesting1_1 | HTTP 503 | sha256=d3f52f43aea7ae0c56056c5843a2d0b26fa13b877ad4a1d66c5ffb31dc13398f | bytes=69 | https://www.bull.family/api/v1/vesting/1
+2026-11-20T15:00:00Z 22:00:00 WIB | probe-vesting1_2 | HTTP 503 | sha256=d3f52f43aea7ae0c56056c5843a2d0b26fa13b877ad4a1d66c5ffb31dc13398f | bytes=69 | https://www.bull.family/api/v1/vesting/1
+2026-11-20T15:00:02Z 22:00:02 WIB | probe-vesting1_3 | HTTP 503 | sha256=d3f52f43aea7ae0c56056c5843a2d0b26fa13b877ad4a1d66c5ffb31dc13398f | bytes=69 | https://www.bull.family/api/v1/vesting/1
+=== SELESAI 2026-11-20T15:00:02Z ===
